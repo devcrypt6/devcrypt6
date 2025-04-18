@@ -11,8 +11,7 @@
 
 - 🔭 Currently building: A token-based Web3 system using **Rust** + **Solana**, integrated with a PHP backend  
 - 🌱 Learning: **AI**, **DevOps workflows**, and **Cloud-native development**
-- ⚙️ Tech Stack: `Rust`, `Solana`, `PHP`, `TypeScript`, `GraphQL`, `Docker`, `AWS`, `Firebase`, `Linux`
-- 🧠 Exploring: Controller Area Network (CAN) in Embedded Systems  
+- ⚙️ Tech Stack: `Rust`, `Solana`, `JavaScript`, `TypeScript`, `GraphQL`, `Docker`, `AWS`, `Kubernetes`, `Linux`  
 - 📍 Based in Germany | Open to remote collabs  
 
 ---
@@ -20,20 +19,21 @@
 ### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,solidity,php,ts,js,graphql,docker,aws,firebase,linux,bash,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=rust,ts,js,cpp,py,react,mongodb,linux,bash,git,github,jenkins,aws,kubernetes,docker,grafana,prometheus,vscode,figma" />
 </p>
+
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blockhash26&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blockhash26&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devcrypt6&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devcrypt6&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blockhash26&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcrypt6&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
