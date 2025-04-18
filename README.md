@@ -56,9 +56,19 @@
 
 ### 🤝 Let's Connect
 
-- 🐦 [Twitter](https://twitter.com/blockhash_6)
-- 💼 [LinkedIn](https://www.linkedin.com/in/blockhash26)
-- 📧 [Email](mailto:sushankgundrathi@gmail.com)
+<p align="left">
+  <a href="https://twitter.com/blockhash_6" target="_blank">
+    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="20" /> Twitter
+  </a><br>
+
+  <a href="https://www.linkedin.com/in/blockhash26" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" /> LinkedIn
+  </a><br>
+
+  <a href="mailto:sushankgundrathi@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" /> Gmail
+  </a>
+</p>
 
 
 ---
