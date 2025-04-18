@@ -54,12 +54,18 @@
 
 ---
 
-### 🔗 Let's Connect
+### 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://twitter.com/blockhash26" target="_blank"><img src="https://img.shields.io/badge/X-Twitter-blue?logo=twitter" /></a>
-  <a href="https://www.linkedin.com/in/blockhash26" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blockhash26-blue?logo=linkedin" /></a>
-  <a href="mailto:sushank@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-sushank@example.com-red?logo=gmail" /></a>
+<p align="center">
+  <a href="https://twitter.com/blockhash_6" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sushank-goud-b84405215/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sushankgundrathi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
