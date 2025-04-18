@@ -42,14 +42,14 @@
 
 - 🪙 **Peer Token System** — Minting and distributing custom SPL tokens on Solana
 - 🔗 **Blockchain-Backend Bridge** — PHP + Rust communication layer for Web3 backend logic
-- 🧰 **DevOps Pipelines** — CI/CD with Docker and GitHub Actions for automated deployments
+- 🧰 **DevOps Pipelines** — CI/CD with Docker and Jenkins Actions for automated deployments
 
 ---
 
 ### 🧠 Currently Learning
 
-- 🤖 AI Prompt Engineering
-- 🖥️ Embedded systems (CAN protocols)
+- 🤖 AI Prompt Engineering, Mcp AI Agents
+- ☁️ Cloud, DevOps , K8s
 - 🔐 Web3 security best practices
 
 ---
