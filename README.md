@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Sushank </h1>
-<h3 align="center">🚀 Blockchain • 🦀 Rust • 🐹 Golang ⚡ Solana • ☁️ Cloud • ⚙️ DevOps • 🔧 Backend • 🤖 AI</h3>
+<h3 align="center"> • 🦀 Rust • 🐹 Golang • ☁️ Cloud • ⚙️ DevOps • 🔧 Backend • 🤖 AI</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
@@ -9,9 +9,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building: A token-based Web3 system using **Rust** + **Solana**, integrated with a PHP backend  
-- 🌱 Learning: **AI**, **DevOps workflows**, and **Cloud-native development**
-- ⚙️ Tech Stack: `Rust`, `Solana`, `JavaScript`, `TypeScript`, `GraphQL`, `Docker`, `AWS`, `Kubernetes`, `Linux`  
+- 🔭 Currently building: Backend services in Rust at Fraunhofer IOSB — real-time stream ingestion, model inference in the live pipeline, gRPC APIs, PostgreSQL
+- ⚙️ **Working in:** `Rust` `TypeScript` `Python` `PostgreSQL` `gRPC / Protobuf` `Docker` `GitLab CI` `Linux` 
+- ⚙️ Tech Stack: `Rust`, `Go`, `gRPC`, `TypeScript`, `GraphQL`, `Docker`, `AWS`, `Kubernetes`, `Linux`, `Gitlab CI/CD`
 - 📍 Based in Germany | Open to remote collabs  
 
 ---
@@ -22,35 +22,6 @@
   <img src="https://skillicons.dev/icons?i=rust,ts,js,cpp,py,react,mongodb,linux,bash,git,github,jenkins,aws,kubernetes,docker,grafana,prometheus,vscode,figma" />
 </p>
 
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devcrypt6&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devcrypt6&theme=radical" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcrypt6&layout=compact&theme=radical" height="160"/>
-</p>
-
----
-
-### 🗂️ Projects Worth Noting
-
-- 🪙 **Peer Token System** — Minting and distributing custom SPL tokens on Solana
-- 🔗 **Blockchain-Backend Bridge** — PHP + Rust communication layer for Web3 backend logic
-- 🧰 **DevOps Pipelines** — CI/CD with Docker and Jenkins Actions for automated deployments
-
----
-
-### 🧠 Currently Learning
-
-- 🤖 AI Prompt Engineering, Mcp AI Agents
-- ☁️ Cloud, DevOps , K8s
-- 🔐 Web3 security best practices
 
 ---
 
