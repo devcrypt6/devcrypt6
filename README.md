@@ -31,7 +31,7 @@
   <a href="https://twitter.com/blockhash_6" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" height="20" />
   </a>
-  <a href="https://www.linkedin.com/in/sushank-goud-b84405215" target="_blank">
+  <a href="https://www.linkedin.com/in/sushank-goud-b84405215/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat&logo=linkedin&logoColor=white" height="20" />
   </a>
   <a href="mailto:sushankgundrathi@gmail.com">
